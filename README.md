@@ -7,6 +7,7 @@
 1. **Pré-requisitos**
    - Tenha o [Terraform](https://www.terraform.io/downloads.html) instalado.
    - Configure suas credenciais AWS (via `aws configure` ou variáveis de ambiente).
+   - Gere uma key pair no serviço de EC2 no console da aws e altere nos script de autoscaling.tf
    - Clone este repositório e acesse a pasta `aws-infra`.
 
 2. **Inicialize o Terraform**
