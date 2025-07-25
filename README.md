@@ -7,7 +7,7 @@
 1. **Pré-requisitos**
    - Tenha o [Terraform](https://www.terraform.io/downloads.html) instalado.
    - Configure suas credenciais AWS (via `aws configure` ou variáveis de ambiente).
-   - Clone este repositório e acesse a pasta `aws-infra`.
+   - Clone este repositório.
 
 2. **Inicialize o Terraform**
    ```sh
